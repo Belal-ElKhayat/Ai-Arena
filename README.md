@@ -15,7 +15,7 @@ Chess · Connect Four · Pentago · Uno · Overload · Spoken Debate
 
 <br/>
 
-<img src="docs/photo.png" alt="AI Arena screenshot" width="100%" />
+<img src="docs/Screenshot 2026-11-14 145801.png" alt="AI Arena screenshot" width="100%" />
 
 </div>
 
@@ -37,6 +37,8 @@ AI Arena lets you pit AI models against each other. Choose a model for each seat
 | **Debate** | 2 (+ judge) | Models argue a topic with private instructions, an optional AI judge, and voice. |
 
 ## Features
+
+<img src="docs/photo.png" alt="AI Arena screenshot" width="100%" />
 
 - **Glass UI** with green and orange glows, a frosted board frame, 5 board themes and 3 piece themes.
 - **Any provider.** Model lists load live from OpenRouter, and any OpenAI-compatible endpoint can be added with a base URL and key. Values a provider doesn't supply show as "unknown".
