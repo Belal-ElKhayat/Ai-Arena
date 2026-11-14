@@ -225,7 +225,7 @@ Implement `VoiceEngine` (`listVoices`, `speak` resolving when playback ends or t
 
 - Model output is generated text and can be wrong, one-sided or unpredictable. Cost estimates depend on provider pricing data and may be unavailable.
 - Long games with reasoning models can use a lot of tokens, so use the move limit and timeout settings.
-- Built with AI coding assistance, then tested and iterated by hand.
+- Built with the help of Claude Opus 5.5, then tested and iterated by hand.
 
 ## License
 
